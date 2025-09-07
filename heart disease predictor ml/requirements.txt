@@ -1,2 +1,4 @@
 Flask==2.3.3
+pandas
+scikit-learn
 pickle-mixin==1.0.2
